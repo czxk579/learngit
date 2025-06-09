@@ -8,10 +8,11 @@ Git tracks changes of files.
 modify by feat1
 modify by feat3
 modify by my-feature
+modify by feat5
 modify 1 test!
 modify 2 test!
 
-my-feature
-my-feature: hello cursor v1.0
+feat5
+feat5: hello cursor v1.0
 
 Master02
