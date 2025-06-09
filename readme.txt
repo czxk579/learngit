@@ -9,7 +9,7 @@ modify by feat1
 modify 1 test!
 modify 2 test!
 
-feat1
-feat1: hello cursor!
+feat2
+feat2: hello cursor v1.0
 
 Master02
