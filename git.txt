@@ -180,3 +180,5 @@ warning:±êÇ©×ÜÊÇºÍÄ³¸öcommit¹Ò¹³¡£Èç¹ûÕâ¸öcommit¼È³öÏÖÔÚmaster·ÖÖ§£¬ÓÖ³öÏÖÔÚdev·
 2)ÃüÁîgit push origin --tags¿ÉÒÔÍÆËÍÈ«²¿Î´ÍÆËÍ¹ıµÄ±¾µØ±êÇ©£»
 3)ÃüÁîgit tag -d <tagname>¿ÉÒÔÉ¾³ıÒ»¸ö±¾µØ±êÇ©£»
 4)ÃüÁîgit push origin :refs/tags/<tagname>¿ÉÒÔÉ¾³ıÒ»¸öÔ¶³Ì±êÇ©¡£
+
+done
