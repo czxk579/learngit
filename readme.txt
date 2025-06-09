@@ -7,10 +7,11 @@ Git is free software distributed under the GPL.
 Git tracks changes of files.
 modify by feat1
 modify by feat3
+modify by my-feature
 modify 1 test!
 modify 2 test!
 
-feat3
-feat3: hello cursor v1.0
+my-feature
+my-feature: hello cursor v1.0
 
 Master02
